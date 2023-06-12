@@ -5,32 +5,31 @@ author = "Bethany Corcoran"
 date = "2023-06-12"
 tags = ["ramble", "neurodiversity"]
 categories = ["ramble", "neurodiversity"]
+[[images]]
+  src = "img/2023/06/gravitywell.jpg"
+  alt = "A representation of a gravity well, image shamelessly stolen from https://expliquenoustout.blogspot.com/2011/05/puits-gravitationnel-et-missions.html via DuckDuckGo."
+  stretch = "horizontal"
 +++
 
 Recently a friend asked me about neurodiversity, specifically if I thought if it applied to them. Immediately I thought of gravity wells, as one does. 
-
 Note, I am not a professional in this field! But I am neurodiverse myself. I was diagnosed with High Functioning Autism nearly a decade ago in my 20s, and earlier this year I was diagnised with Combined ADHD. The two have kinda felt increasingly interlaced to me, especially after learning during the diagnosis process that the current DSM does consider them comorbid and a new term, AuDHD, describing a diagnosis of both, has been coined. I'm sure there are other types of neurodiversity that are outside of Autism and ADHD but I'm mainly thinking of what applies to me, and was up for discussion with my friend, in the context of this post.
-
 And so, here follows my largely unedited ramble.
 <!--more-->
 
 ## The Ramble
+### Gravity Wells
+So, there's this concept in astrophyics (bear with me) called a gravity well, see the header image.
 
-So, there's this concept in astrophyics (bear with me) called a gravity well, see this image:
-[[images]]
-  src = "img/2023/06/gravitywell.jpg"
-  alt = "A representation of a gravity well, image shamelessly stolen from [here](https://expliquenoustout.blogspot.com/2011/05/puits-gravitationnel-et-missions.html) via DuckDuckGo."
-  stretch = "horizontal"
+Imagine the sun is at the middle of this, it's at the deep part of the gravity well. Other things spin around that like water circling down a drain. Except they find a balance between their speed around the sun, and being pulled down the gravity well which is how we stay in orbit. Looking up the term "neurodiversity" it seems it was originally coined specifically around ASD but has come to contain a whole bunch of things including ADHD. But I'm increasingly coming to see it as one big joined collective that have differing symptoms. (Again mainly thinking of ASD and ADHD here! - me)
 
-Imagine the sun is at the middle of this, it's at the deep part of the gravity well. Other things spin around that like water circling down a drain. Except they find a balance between their speed around the sun, and being pulled down the gravity well which is how we stay in orbit.
-Looking up the term "neurodiversity" it seems it was originally coined specifically around ASD but has come to contain a whole bunch of things including ADHD. But I'm increasingly coming to see it as one big joined collective that have differing symptoms. (Again mainly thinking of ASD and ADHD here! - me)
-Some people are more affected by it - deeper in the gravity well. Some aren't - they're further out, less affected by the gravity of neurodiversity but still affected by its pull.
-A kid who "shows signs of being neurodiverse" is affected by the gravity well. But they're thrust into a world that expects them to not be affected by gravity whilst also spinning fairly far in the gravity well. I'm also affected by the same gravity well, but in different ways. obviously I'm also older and have learned a bunch of coping mechanisms, but despite being in the same gravity well I'm very different. And some of that will be how the gravity affects me differently and some will be how I've learned to cope with it.
+Some people are more affected by it - deeper in the gravity well. Some aren't - they're further out, less affected by the gravity of neurodiversity but still affected by its pull. A kid who "shows signs of being neurodiverse" is affected by the gravity well. But they're thrust into a world that expects them to not be affected by gravity whilst also spinning fairly far in the gravity well. I'm also affected by the same gravity well, but in different ways. obviously I'm also older and have learned a bunch of coping mechanisms, but despite being in the same gravity well I'm very different. And some of that will be how the gravity affects me differently and some will be how I've learned to cope with it.
 
+### Childhood Memories
 Something I talked about with my therapist recently is how much of my memory of my childhood is missing. Despite that though my earliest memory is from when I was 2, which is pretty young. That is, my memory isn't *bad*, it just has gaps due to trauma. And therapist was saying such early memories contain really key "learnings". In this memory, I was lost at some sort of outdoor museum and happily wandering around by myself, having wandered away from my mum. Eventually I think there was some sort of call for me to go to the front gate because my mum was waiting for me? But in any case I ended up at the main gate. My mum was so relieved to see me, she hugged me and started crying a bunch causing me to cry.
 The key learning from this? My actions have significant impacts on those around me, and it is good to behave so I don't upset anyone.
 And if we consider that a fork in the road, the butterfly effect, however you want to think of it - you can see how that lesson can be key in developing a mindset versus how a very similar person doesn't have that in their core memories may have developed. I'm quite insular and restrained, whereas common signs of ADHD include things like acting out, being very impulsive, etc. I am those things as well but because of that very early lesson I effectively learned from the get-go to not do those things or I might upset people. Or put another way: At 2 years old I was learning how to ["mask"](https://theconversation.com/what-are-masking-and-camouflaging-in-the-context-of-autism-and-adhd-193446).
 
+### An Approximation
 Anyway, the gravity well.
 
 The lines on that diagram are quite helpful for this analogy. This diagram is, in truth, a poor approximation of a phenomenon (the universe isn't a 2d plain) but it's helpful to get the concept across. Now imagine that medical research has determined that a certain line on that diagram is where you quite literally "draw the line" on whether a diagnosis is applicable. It's pretty arbitrary. Things above that line are still affected by that gravity well. It's entirely valid that they are affected by that gravity well. So why have we decided it's not classed as affected by that gravity well?
