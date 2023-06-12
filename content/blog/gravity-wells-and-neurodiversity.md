@@ -11,8 +11,11 @@ categories = ["ramble", "neurodiversity"]
   stretch = "horizontal"
 +++
 
-Recently a friend asked me about neurodiversity, specifically if I thought if it applied to them. Immediately I thought of gravity wells, as one does. 
-Note, I am not a professional in this field! But I am neurodiverse myself. I was diagnosed with High Functioning Autism nearly a decade ago in my 20s, and earlier this year I was diagnised with Combined ADHD. The two have kinda felt increasingly interlaced to me, especially after learning during the diagnosis process that the current DSM does consider them comorbid and a new term, AuDHD, describing a diagnosis of both, has been coined. I'm sure there are other types of neurodiversity that are outside of Autism and ADHD but I'm mainly thinking of what applies to me, and was up for discussion with my friend, in the context of this post.
+Recently a friend asked me about neurodiversity, specifically if I thought if it applied to them. Immediately I thought of gravity wells, as one does, and went on a ramble. 
+Note, I am not a professional in this field! But I am neurodiverse myself. 
+
+I was diagnosed with High Functioning Autism nearly a decade ago in my 20s, and earlier this year I was diagnised with Combined ADHD. The two have kinda felt increasingly interlaced to me, especially after learning during the diagnosis process that the current DSM does consider them comorbid and a new term, AuDHD, describing a diagnosis of both, has been coined. I'm sure there are other types of neurodiversity that are outside of Autism and ADHD but I'm mainly thinking of what applies to me, and was up for discussion with my friend, in the context of this post.
+
 And so, here follows my largely unedited ramble.
 <!--more-->
 
